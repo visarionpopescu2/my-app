@@ -1,0 +1,85 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Sidebar should render Sidebar component 1`] = `
+<DocumentFragment>
+  <div>
+    <div
+      class="ant-space css-dev-only-do-not-override-2i2tap ant-space-horizontal ant-space-align-center ant-space-gap-row-small ant-space-gap-col-small"
+      style="display: flex; justify-content: center; flex-direction: column; padding: 40px 0px;"
+    >
+      <div
+        class="ant-space-item"
+      >
+        <span
+          class="ant-avatar ant-avatar-circle ant-avatar-image css-dev-only-do-not-override-2i2tap"
+          style="width: 64px; height: 64px; line-height: 64px; font-size: 18px;"
+        >
+          <img
+            src="https://shorturl.at/dzBW2"
+          />
+        </span>
+      </div>
+      <div
+        class="ant-space-item"
+      >
+        <span
+          class="ant-typography css-dev-only-do-not-override-2i2tap"
+          style="color: rgb(255, 255, 255);"
+        >
+          Hello,
+        </span>
+      </div>
+      <div
+        class="ant-space-item"
+      >
+        <span
+          class="ant-typography css-dev-only-do-not-override-2i2tap"
+          style="color: rgb(255, 255, 255);"
+        >
+          <strong>
+            name
+          </strong>
+        </span>
+      </div>
+    </div>
+    <ul
+      class="ant-menu ant-menu-root ant-menu-inline ant-menu-light css-dev-only-do-not-override-2i2tap"
+      data-menu-list="true"
+      role="menu"
+      style="background-color: rgb(59, 160, 233); color: rgb(255, 255, 255); padding: 20px 0px;"
+      tabindex="0"
+    >
+      <li
+        class="ant-menu-item ant-menu-item-selected ant-menu-item-only-child"
+        data-menu-id="rc-menu-uuid-test-1"
+        role="menuitem"
+        style="padding-left: 24px;"
+        tabindex="-1"
+      >
+        <span
+          class="ant-menu-title-content"
+        >
+          Dashboard
+        </span>
+      </li>
+      <li
+        class="ant-menu-item ant-menu-item-only-child"
+        data-menu-id="rc-menu-uuid-test-2"
+        role="menuitem"
+        style="padding-left: 24px;"
+        tabindex="-1"
+      >
+        <span
+          class="ant-menu-title-content"
+        >
+          Articles
+        </span>
+      </li>
+    </ul>
+    <div
+      aria-hidden="true"
+      style="display: none;"
+    />
+  </div>
+</DocumentFragment>
+`;

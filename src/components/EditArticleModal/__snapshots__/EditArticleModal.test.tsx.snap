@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`EditArticleModal should render EditArticleModal component when it is not open 1`] = `<DocumentFragment />`;
+
+exports[`EditArticleModal should render EditArticleModal component when it is open 1`] = `<DocumentFragment />`;

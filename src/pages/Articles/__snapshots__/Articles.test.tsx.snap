@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Articles should render Articles component 1`] = `
+<DocumentFragment>
+  <div
+    class="ant-space css-dev-only-do-not-override-2i2tap ant-space-vertical ant-space-gap-row-middle ant-space-gap-col-middle"
+    style="display: flex;"
+  >
+    <div
+      class="ant-space-item"
+    >
+      <h3
+        class="ant-typography css-dev-only-do-not-override-2i2tap"
+        style="margin-top: 0px;"
+      >
+        All blog articles
+      </h3>
+    </div>
+  </div>
+</DocumentFragment>
+`;

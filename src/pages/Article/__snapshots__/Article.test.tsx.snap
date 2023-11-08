@@ -1,0 +1,99 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Article should render Article page with article 1`] = `
+<DocumentFragment>
+  <div>
+    <nav
+      class="ant-breadcrumb css-dev-only-do-not-override-2i2tap"
+    >
+      <ol>
+        <li>
+          <span
+            class="ant-breadcrumb-link"
+          >
+            <a
+              href="/articles"
+            >
+              Articles
+            </a>
+          </span>
+        </li>
+        <li
+          aria-hidden="true"
+          class="ant-breadcrumb-separator"
+        >
+          /
+        </li>
+        <li>
+          <span
+            class="ant-breadcrumb-link"
+          >
+            <span
+              class="ant-typography css-dev-only-do-not-override-2i2tap"
+            >
+              Details
+            </span>
+          </span>
+        </li>
+      </ol>
+    </nav>
+    <h3
+      class="ant-typography css-dev-only-do-not-override-2i2tap"
+    >
+      title
+    </h3>
+    <div
+      class="ant-typography css-dev-only-do-not-override-2i2tap"
+    >
+      body
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Article should render Article page without article 1`] = `
+<DocumentFragment>
+  <div>
+    <nav
+      class="ant-breadcrumb css-dev-only-do-not-override-2i2tap"
+    >
+      <ol>
+        <li>
+          <span
+            class="ant-breadcrumb-link"
+          >
+            <a
+              href="/articles"
+            >
+              Articles
+            </a>
+          </span>
+        </li>
+        <li
+          aria-hidden="true"
+          class="ant-breadcrumb-separator"
+        >
+          /
+        </li>
+        <li>
+          <span
+            class="ant-breadcrumb-link"
+          >
+            <span
+              class="ant-typography css-dev-only-do-not-override-2i2tap"
+            >
+              Details
+            </span>
+          </span>
+        </li>
+      </ol>
+    </nav>
+    <h3
+      class="ant-typography css-dev-only-do-not-override-2i2tap"
+    />
+    <div
+      class="ant-typography css-dev-only-do-not-override-2i2tap"
+    />
+  </div>
+</DocumentFragment>
+`;
